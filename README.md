@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me No
-- 😄 Pronouns: Fuck you
-- ⚡ Fun fact: I am cool
+- ⚡ Fun fact: I am da best
 
 <!---
 Arturius1471/Arturius1471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
